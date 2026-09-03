@@ -64,6 +64,3 @@ Using the same deployed stack, I ran repeated requests against the API through P
 - Using Postman for both functional API testing and basic load testing
 - Reading CloudWatch metrics to reason about Lambda performance under load
 
-## Credits
-
-Base lab structure and diagram adapted from [Rajdeep Saha's serverless-lab](https://github.com/saha-rajdeep/serverless-lab), used with permission as part of an AWS bootcamp exercise. Implementation, testing, and load testing were completed independently.
